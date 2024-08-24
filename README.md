@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 * **Development & Framework**: HTML, CSS, JUnit, Spring Boot, Bootstrap, Node.js, Express.js, ReactJS, AWS, Google Could, Ant Design, Material-UI, Recharts
 * **Databases**: MySQL, PostgreSQL, ElasticSearch, MongoDB, DuckDB, Neo4j
 * **DevOps**: Docker
-* **Others**: Git, Linux, LaTeX
+* **Others**: Git, Linux, Draw io, LaTeX
 
 ## Let's Connect!
 I'm always eager to explore new opportunities and collaborations. Don't hesitate to connect with me on [LinkedIn](https://www.linkedin.com/in/hannahluan/) to discuss how we can collaborate and drive innovation together!
