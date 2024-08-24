@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 ## Skills
 * **Programming Languages**: Java, Python, C, C#, Go, SQL, Kotlin, JavaScript
 * **Development & Framework**: HTML, CSS, JUnit, Spring Boot, Bootstrap, Node.js, Express.js, ReactJS, AWS, Google Could, Ant Design, Material-UI, Recharts
-* **Databases**: MySQL, PostgreSQL, ElasticSearch, MongoDB, DBeaver, Neo4j
+* **Databases**: MySQL, PostgreSQL, ElasticSearch, MongoDB, DuckDB, Neo4j
 * **DevOps**: Docker
 * **Others**: Git, Linux, LaTeX
 
