@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-I am Hannah Luan, a master student in Computer and Information Technology at the University of Pennsylvania. I am a self-motivated individual with a strong ability to learn quickly and adapt to new challenges. With extensive experience in full-stack development, I have honed my technical skills while also cultivating strong interpersonal abilities. I am eager to apply my skills and passion for technology to make meaningful contributions in a dynamic and innovative environment.
+I am Hannah Luan, a master student in Computer and Information Technology at University of Pennsylvania. I am a self-motivated individual with a strong ability to learn quickly and adapt to new challenges. With extensive experience in full-stack development, I have honed my technical skills while also cultivating strong interpersonal abilities. I am eager to apply my skills and passion for technology to make meaningful contributions in a dynamic and innovative environment.
 
 <!--
 **hqluan/hqluan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
